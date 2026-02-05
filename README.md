@@ -1,3 +1,7 @@
+## 🔗 Acesse o projeto
+
+👉 https://rafael-atrat.github.io/site_html_css/
+
 🧠 Curiosidades de Tecnologia – História do Mascote do Android
 
 Este projeto foi desenvolvido com o objetivo de praticar e aperfeiçoar os conhecimentos em HTML5 e CSS3, recriando uma página informativa sobre a história do mascote do Android, o famoso Bugdroid.
